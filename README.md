@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Rajesh%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20India%20🇮🇳&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rajesh+Ranjan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8)](https://github.com/rajeshranjan22)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rajesh+Ranjan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8)](https://github.com/Sarthak-Khalasi-dev)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rajeshranjan22&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/rajeshranjan22)
-[![GitHub followers](https://img.shields.io/github/followers/rajeshranjan22?label=Followers&style=for-the-badge&color=00C7B7)](https://github.com/rajeshranjan22?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/rajeshranjan22?label=Stars%20Earned&style=for-the-badge&color=f7df1e)](https://github.com/rajeshranjan22)
+[![Profile Views](https://komarev.com/ghpvc/?username=rajeshranjan22&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Sarthak-Khalasi-dev)
+[![GitHub followers](https://img.shields.io/github/followers/rajeshranjan22?label=Followers&style=for-the-badge&color=00C7B7)](https://github.com/Sarthak-Khalasi-dev=followers)
+[![GitHub stars](https://img.shields.io/github/stars/rajeshranjan22?label=Stars%20Earned&style=for-the-badge&color=f7df1e)](https://github.com/Sarthak-Khalasi-dev)
 
 </div>
 
