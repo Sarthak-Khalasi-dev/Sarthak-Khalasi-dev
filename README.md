@@ -95,7 +95,7 @@ const sarthak = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" /> -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Khalasi-dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
@@ -112,7 +112,7 @@ const sarthak = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeshranjan22&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/Sarthak-Khalasi-dev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Khalasi-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/Sarthak-Khalasi-dev)
 
 </div>
 
@@ -122,7 +122,7 @@ const sarthak = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajeshranjan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Sarthak-Khalasi-dev)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sarthak-Khalasi-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Sarthak-Khalasi-dev)
 
 </div>
 
@@ -137,7 +137,7 @@ const sarthak = {
 | **AJIO Clone** | Fashion e-commerce with product listings | JavaScript | [🔗 View](https://github.com/Ravinder1310/nifty-silk-2629) |
 | **JioMart Clone** | Grocery e-commerce website | JavaScript | [🔗 View](https://github.com/saurav269/Jio-mart-Website-Clone-) |
 
-> 💡 *Replace or update this table with your latest & best projects!*
+
 
 ---
 
