@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Rajesh%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20India%20🇮🇳&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Sarthak%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20India%20🇮🇳&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sarthak+Khalasi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8)](https://github.com/Sarthak-Khalasi-dev)
 
