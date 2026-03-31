@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarthak
 
-<!--
-**Sarthak-Khalasi-dev/Sarthak-Khalasi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second Semester Student at Swaminarayan University  
+💻 Learning through Coding Gita  
+🚀 Aspiring Data Scientist & Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- 📊 Data Science Basics  
+- 🌐 Full Stack Development  
+- ⚙️ Backend with Node.js  
+
+---
+
+## 🔧 Tech Stack
+- 💻 Languages: JavaScript, C++  
+- 🌐 Frontend: HTML, CSS, React  
+- ⚙️ Backend: Node.js, Express  
+- 🗄️ Database: MongoDB (Learning)  
+
+---
+
+## 🚀 Projects
+- 🔹 WhatsApp-based CRM (Micro-business Solution)  
+- 🔹 Resume Analyzer AI  
+
+---
+
+## 🎯 Goals
+- Crack Hackathons 🏆  
+- Build Real-world Projects  
+- Become a Data Scientist  
+
+---
+
+## 📊 GitHub Stats
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-Khalasi-dev&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sarthak-khalasi-73500439b/
+- Email: sarthak.khalasi.cg@gmail.com
