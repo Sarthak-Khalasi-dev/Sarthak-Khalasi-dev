@@ -22,9 +22,11 @@
 ---
 
 ## 🚀 Projects
-- 🔹 WhatsApp-based CRM (Micro-business Solution)  
-- 🔹 Resume Analyzer AI  
-
+🔹 Weather App  
+  → Developed an API-based app to fetch real-time weather data  
+  
+ 🔹 Resume Analyzer AI  
+  → Developed an AI tool to analyze resumes and provide skill-based insights 
 ---
 
 ## 🎯 Goals
