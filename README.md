@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarthak
+# 👋 Hi, I'm Sarthak Khalasi
 
 🎓 Second Semester Student at Swaminarayan University  
 💻 Learning through Coding Gita  
