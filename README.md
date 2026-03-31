@@ -34,11 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-Khalasi-dev&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sarthak-khalasi-73500439b/
 - Email: sarthak.khalasi.cg@gmail.com
