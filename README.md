@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const rajesh = {
+const sarthak = {
   name        : "Sarthak Khalasi",
   location    : "Surat, Gujarat, India 🇮🇳",
   role        : "Full Stack Developer",
@@ -30,7 +30,7 @@ const rajesh = {
 - 🔭 Currently building **real-world scalable applications**
 - 🌱 Exploring **System Design, Advanced Backend & TypeScript**
 - 🧠 Strong in **Data Structures, Algorithms & Problem Solving**
-- 🌐 Check out my portfolio → [rajeshranjan22.github.io](https://sarthak-portfolio01.netlify.app)
+- 🌐 Check out my portfolio → [https://sarthak-portfolio01.netlify.app](https://sarthak-portfolio01.netlify.app)
 - 🤝 Love working in **team environments** and open to collaborations
 - 💡 Fun fact: I'm a **creative person** and proud to be Indian 🇮🇳
 
@@ -96,13 +96,13 @@ const rajesh = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshranjan22&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Khalasi-dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Sarthak-Khalasi-dev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Khalasi-dev&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Sarthak-Khalasi-dev)
 
 </div>
 
@@ -112,7 +112,7 @@ const rajesh = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeshranjan22&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/rajeshranjan22)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeshranjan22&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/Sarthak-Khalasi-dev)
 
 </div>
 
@@ -122,7 +122,7 @@ const rajesh = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajeshranjan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/rajeshranjan22)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajeshranjan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Sarthak-Khalasi-dev)
 
 </div>
 
@@ -147,7 +147,7 @@ const rajesh = {
 
 ⭐️ *If you like my work, consider giving a star to my repositories!*
 
-[![Thank You](https://img.shields.io/badge/Thank-You!-ff69b4.svg?style=for-the-badge)](https://github.com/rajeshranjan22)
+[![Thank You](https://img.shields.io/badge/Thank-You!-ff69b4.svg?style=for-the-badge)](https://github.com/Sarthak-Khalasi-dev)
 
 </div>
 
