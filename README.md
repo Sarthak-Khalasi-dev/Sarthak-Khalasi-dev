@@ -93,12 +93,12 @@ const sarthak = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" /> -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" /> 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Khalasi-dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -118,15 +118,6 @@ const sarthak = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sarthak-Khalasi-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Sarthak-Khalasi-dev)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
