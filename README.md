@@ -123,10 +123,10 @@ const sarthak = {
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| **Expedia Clone** | Full flight, hotel & activity booking platform | HTML, CSS, JS | [🔗 View](https://github.com/rajeshranjan22/Bitter-level-627) |
-| **YouTube Clone** | YouTube clone powered by real API | HTML, CSS, JS | [🔗 View](https://github.com/rajeshranjan22/Youtube) |
-| **AJIO Clone** | Fashion e-commerce with product listings | JavaScript | [🔗 View](https://github.com/Ravinder1310/nifty-silk-2629) |
-| **JioMart Clone** | Grocery e-commerce website | JavaScript | [🔗 View](https://github.com/saurav269/Jio-mart-Website-Clone-) |
+| **Meal Explorer** | Menu for food used in resturant | HTML, CSS, JS , REST API | [🔗 View](https://github.com/Sarthak-Khalasi-dev/Meal-Explorer) |
+| **Tissot Clone** | A responsive e-commerce website inspired by Tissot, showcasing watches with a modern and clean UI. | HTML, CSS, JS | [🔗 View](https://github.com/Sarthak-Khalasi-dev/tissot) |
+| **Stripe Clone** | A Stripe-inspired landing page clone showcasing modern UI design and responsive layout. |TailwindCSS ,React ,JavaScript | [🔗 View](https://github.com/Sarthak-Khalasi-dev/stripe-clone) |
+| **JioMart Clone** | Car Modern website | JavaScript | [🔗 View](https://github.com/Sarthak-Khalasi-dev/porsche-clone) |
 
 
 
