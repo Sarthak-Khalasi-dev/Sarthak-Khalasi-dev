@@ -20,7 +20,7 @@ const sarthak = {
   location    : "Surat, Gujarat, India 🇮🇳",
   role        : "Full Stack Developer",
   stack       : ["MongoDB", "Express.js", "React", "Node.js"],
-  portfolio   : "https://sarthak-portfolio01.netlify.app/",
+  portfolio   : "https://sarthak-khalasi.netlify.app/",
   currentFocus: "Prompt Engineering & Web Development",
   funFact     : "🌐 From frontend pixels to backend logic — I build it all",
   openTo      : "Exciting opportunities & collaboration!"
@@ -41,7 +41,7 @@ const sarthak = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak.khalasi.cg@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00C7B7)](https://sarthak-portfolio01.netlify.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00C7B7)](https://sarthak-khalasi.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-khalasi-73500439b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sarthak_2655)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarthak-Khalasi-dev)
