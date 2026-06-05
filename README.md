@@ -30,7 +30,7 @@ const sarthak = {
 - 🔭 Currently building **real-world scalable applications**
 - 🌱 Exploring **System Design, Advanced Backend & TypeScript**
 - 🧠 Strong in **Data Structures, Algorithms & Problem Solving**
-- 🌐 Check out my portfolio → [https://sarthak-portfolio01.netlify.app](https://sarthak-portfolio01.netlify.app)
+- 🌐 Check out my portfolio → [https://sarthak-portfolio01.netlify.app](https://sarthak-khalasi.netlify.app/)
 - 🤝 Love working in **team environments** and open to collaborations
 - 💡 Fun fact: I'm a **creative person** and proud to be Indian 🇮🇳
 
